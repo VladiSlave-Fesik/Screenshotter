@@ -5,7 +5,7 @@ This program writing by Python, Github Copilot and small, but important part of 
 To use this app you need:
 						PC
 						Windows
-						Tesseract
+						Tesseract in standart folder (no change while install him)
 						Screen
 						Electricity
 						Cabel`s for PC
