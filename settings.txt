@@ -1,0 +1,5 @@
+Directory =
+Combination for screenshot = None
+Combination for copy text region = ctrl+shift+p
+Combination for screenshot region = None
+Combination for change language that used for copy text = ctrl+shift+l
