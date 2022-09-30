@@ -55,7 +55,7 @@ while True:
         tes = pytesseract.image_to_string(Image.open('C:\\Screenshots\\t.png'), lang=clip_lang)
         pclip.copy(tes)
         os.remove(directory + 't.png')
-        print('Copied to clipboard')
+        print('Скопировано в буфер')
     if k.is_pressed(comb3):
         with Listener(on_click=on_press) as listener:
             listener.join()
